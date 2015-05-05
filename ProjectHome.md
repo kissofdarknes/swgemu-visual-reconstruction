@@ -1,0 +1,1 @@
+This project revolves around the complete visual reconstruction of each and every planet in SWGEmu. This means the introduction of fresh, high resolution textures, along with new high quality flora. The project will liven up the current state of the worlds and will eventually result in them becoming as visually beautiful as they should have initially been.
